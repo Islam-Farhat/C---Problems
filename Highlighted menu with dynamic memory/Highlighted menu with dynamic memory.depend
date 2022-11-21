@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1665844295 source:d:\iti 9-month\1- c programing language\lecture 6\lab\highlighted menu with dynamic memory\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1665844295 source:d:\iti 9-month\1- c programing language\lecture 6\islam-lab7-highlighted menu with dynamic memory\highlighted menu with dynamic memory\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665624035 source:d:\iti 9-month\1- c programing language\lecture 4\islam-lab4\employees with highlighted menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
